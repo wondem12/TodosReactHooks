@@ -2,7 +2,7 @@
   "name": "todoswithhooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/wondem12/TodosReactHooks",
+  "homepage": "https://wondem12.github.io/TodosReactHooks/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
